@@ -1,0 +1,7 @@
+shiny
+pandas
+numpy
+plotly
+htmltools
+matplotlib
+openpyxl
